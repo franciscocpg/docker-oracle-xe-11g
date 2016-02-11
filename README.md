@@ -14,6 +14,7 @@ Run with 22 and 1521 ports opened:
 ```
 docker run -d -p 49160:22 -p 49161:1521 wnameless/oracle-xe-11g
 ```
+**ps: May take five minutes to start at first time**
 
 Connect database with following setting:
 ```
